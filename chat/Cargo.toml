@@ -1,0 +1,7 @@
+[package]
+name = "chat"
+version = "0.1.1"
+authors = ["Han Loong Liauw <hanloongliauw@gmail.com>"]
+
+[dependencies]
+mio = "0.4.0"
